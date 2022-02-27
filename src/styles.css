@@ -1,0 +1,14 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background: burlywood;
+}
+h1 {
+  color: black;
+}
+p {
+  color: cornflowerblue;
+}
+a {
+  text-decoration: none;
+  color: plum;
+}
